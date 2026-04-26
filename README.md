@@ -5,7 +5,7 @@
 * **Kelas:** TIF RP 24 CNS
 * **Program Studi:** Teknik Informatika
 * **Kampus:** Universitas Teknologi Bandung (UTB)
-* **Dosen Pengampu:** Prof. Danny Aidil Rismayadi
+* **Dosen Pengampu:** Bapak Iwan Ridwan, S.T., M.Kom.
 
 ---
 
